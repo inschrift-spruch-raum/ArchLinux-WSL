@@ -3,7 +3,7 @@
 
 ## Prerequisites
 PowerShell 5 or above is required.
-**A Linux installation must be already present in WSL prior to execution.**
+**A Linux installation must be already present in WSL prior to execution. Currently, this installation must be Ubuntu.** (will be changed in the future)
 
 ## Usage
 0. Clone this repository.
