@@ -1,3 +1,4 @@
+# **This library is outdated. Please use the [official version](https://gitlab.archlinux.org/archlinux/archlinux-wsl).**
 # ArchLinux-WSL Builder for Windows 11
 **ArchLinux-WSL** is a PowerShell script that sets up a mostly-vanilla Arch Linux environment for Windows Subsystem for Linux, using the latest 'bootstrap' distribution package from Arch mirrors, along with some quality-of-life improvements.
 
